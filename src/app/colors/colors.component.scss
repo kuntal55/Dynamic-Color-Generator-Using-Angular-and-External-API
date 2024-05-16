@@ -1,0 +1,25 @@
+.styled-box {
+  width: 300px; /* Adjust width as needed */
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  margin: 0 auto;
+  margin-top: 50px; /* Adjust margin-top to center vertically */
+}
+
+/* Button styling */
+.styled-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.styled-button:hover {
+  background-color: #0056b3;
+}
